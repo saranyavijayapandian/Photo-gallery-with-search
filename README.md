@@ -1,6 +1,6 @@
 # Hi, I'm Saranya V 👋
 
-**Senior Backend Developer & Team Lead** | PHP (Laravel) · Python · AI/ML Backend Systems
+**Senior Backend Developer & Team Lead** | PHP (Laravel) · Python · AI Backend Systems
 
 📍 Tirupur, Tamil Nadu, India &nbsp;|&nbsp; 🌍 Open to Remote/WFH
 📧 Saranyamaya11@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/saranya-v-0a884a137)
